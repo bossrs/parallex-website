@@ -98,6 +98,15 @@ background-image: url(../pexels-quintin-gellar-313782.jpg);
 body{
 
 }
+ .main{
+    height: 400px;
+    background-position: center;
+    background-image: url(../pexels-irina-iriser-1366957.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+
+
 
 header h1{
  color: white;
